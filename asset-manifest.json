@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dax-recipe/static/css/main.a015f569.chunk.css",
-    "main.js": "/dax-recipe/static/js/main.f45a9d20.chunk.js",
-    "main.js.map": "/dax-recipe/static/js/main.f45a9d20.chunk.js.map",
+    "main.js": "/dax-recipe/static/js/main.03bf23c2.chunk.js",
+    "main.js.map": "/dax-recipe/static/js/main.03bf23c2.chunk.js.map",
     "runtime-main.js": "/dax-recipe/static/js/runtime-main.cfae09c6.js",
     "runtime-main.js.map": "/dax-recipe/static/js/runtime-main.cfae09c6.js.map",
     "static/js/2.91aceda6.chunk.js": "/dax-recipe/static/js/2.91aceda6.chunk.js",
     "static/js/2.91aceda6.chunk.js.map": "/dax-recipe/static/js/2.91aceda6.chunk.js.map",
     "index.html": "/dax-recipe/index.html",
-    "precache-manifest.49e7b22a1b0719526a55ec0b02488702.js": "/dax-recipe/precache-manifest.49e7b22a1b0719526a55ec0b02488702.js",
+    "precache-manifest.f30ff9f29934faf2e5bf210176ad4cbf.js": "/dax-recipe/precache-manifest.f30ff9f29934faf2e5bf210176ad4cbf.js",
     "service-worker.js": "/dax-recipe/service-worker.js",
     "static/css/main.a015f569.chunk.css.map": "/dax-recipe/static/css/main.a015f569.chunk.css.map",
     "static/js/2.91aceda6.chunk.js.LICENSE.txt": "/dax-recipe/static/js/2.91aceda6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cfae09c6.js",
     "static/js/2.91aceda6.chunk.js",
     "static/css/main.a015f569.chunk.css",
-    "static/js/main.f45a9d20.chunk.js"
+    "static/js/main.03bf23c2.chunk.js"
   ]
 }

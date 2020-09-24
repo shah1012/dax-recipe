@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dax-recipe/precache-manifest.49e7b22a1b0719526a55ec0b02488702.js"
+  "/dax-recipe/precache-manifest.f30ff9f29934faf2e5bf210176ad4cbf.js"
 );
 
 self.addEventListener('message', (event) => {

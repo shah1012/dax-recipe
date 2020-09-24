@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b48b7433433fb270cf13ff3826cf27ac",
+    "revision": "e268ca120d6224918e814ecba0929e5d",
     "url": "/dax-recipe/index.html"
   },
   {
-    "revision": "e589b44831777cb02295",
+    "revision": "d6dba0ba328e83724052",
     "url": "/dax-recipe/static/css/main.a015f569.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dax-recipe/static/js/2.91aceda6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e589b44831777cb02295",
-    "url": "/dax-recipe/static/js/main.f45a9d20.chunk.js"
+    "revision": "d6dba0ba328e83724052",
+    "url": "/dax-recipe/static/js/main.03bf23c2.chunk.js"
   },
   {
     "revision": "4f351a572a382ff04572",
